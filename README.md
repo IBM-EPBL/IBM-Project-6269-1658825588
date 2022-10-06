@@ -1,2 +1,3 @@
-# IBM-Project-35247-1660283043
-Retail Store Stock Inventory Analytics
+/
+IBM-Project-6269-1658825588
+
